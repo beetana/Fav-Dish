@@ -8,10 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="primary_navy">#4B6587</color>1d3b5a
-    <color name="primary_navy_dark">#1d3b5a</color>
-    <color name="primary_navy_light">#7993b7</color>
-    <color name="primary_grey">#C8C6C6</color>
-    <color name="primary_white">#F7F6F2</color>
-    <color name="primary_beige">#F0E5CF</color>
+    <color name="primary_navy">#FF4B6587</color>
+    <color name="primary_navy_dark">#FF1d3b5a</color>
+    <color name="primary_navy_light">#FF7993b7</color>
+    <color name="primary_grey">#FFC8C6C6</color>
+    <color name="primary_white">#FFF7F6F2</color>
+    <color name="primary_beige">#FFF0E5CF</color>
+    <color name="dish_image_background">#FFE1E1E1</color>
+    <color name="grey_900">#FF212121</color>
 </resources>
