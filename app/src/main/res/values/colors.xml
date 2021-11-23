@@ -16,4 +16,5 @@
     <color name="primary_beige">#FFF0E5CF</color>
     <color name="dish_image_background">#FFE1E1E1</color>
     <color name="grey_900">#FF212121</color>
+    <color name="divider_line_color">#FFe0e0e0</color>
 </resources>

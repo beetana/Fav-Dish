@@ -13,7 +13,22 @@
     <string name="lbl_ingredients">Ingredients</string>
     <string name="lbl_cooking_time_in_minutes">Cooking time In Minutes</string>
     <string name="lbl_direction_to_cook">Direction To Cook</string>
+
     <string name="title_select_image">Select Image</string>
     <string name="lbl_camera">Camera</string>
     <string name="lbl_gallery">Gallery</string>
+
+    <string name="title_select_dish_type">料理のジャンルを選択</string>
+    <string name="title_select_dish_category">料理のカテゴリを選択</string>
+    <string name="title_select_dish_cooking_time">調理時間を選択</string>
+
+    <!--  エラーメッセージ  -->
+    <string name="err_msg_select_dish_image">料理の画像を選択してください</string>
+    <string name="err_msg_enter_dish_title">料理のタイトルを入力してください</string>
+    <string name="err_msg_select_dish_type">料理のジャンルを選択してください</string>
+    <string name="err_msg_select_dish_category">料理のカテゴリを選択してください</string>
+    <string name="err_msg_enter_dish_ingredients">料理の材料を入力してください</string>
+    <string name="err_msg_select_dish_cooking_time">調理時間を選択してください</string>
+    <string name="err_msg_enter_dish_cooking_instructions">料理の説明を入力してください</string>
+
 </resources>
